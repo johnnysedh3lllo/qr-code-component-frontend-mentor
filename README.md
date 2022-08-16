@@ -14,10 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor]
-(https://www.frontendmentor.io/solutions/desktop-first-qr-code-component-built-with-html-and-css-U-vXJM4HeJ#comment-62ee708783876a172e7625f8)
-- Live Site URL: [GitHub]
-(https://johnnysedh3lllo.github.io/qr-code-component-frontend-mentor/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/desktop-first-qr-code-component-built-with-html-and-css-U-vXJM4HeJ#comment-62ee708783876a172e7625f8)
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/qr-code-component-frontend-mentor/)
 
 ## My process
 
@@ -30,9 +28,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Author
-- GitHub - [johnnysedh3lllo] (https://github.com/johnnysedh3lllo)
+- GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
 
-- Frontend Mentor - [@johnnysedh3lllo] (https://www.frontendmentor.io/profile/johnnysedh3lllo)
+- Frontend Mentor - [@johnnysedh3lllo](https://www.frontendmentor.io/profile/johnnysedh3lllo)
 
 - Twitter - [@johnnysedh3lllo](https://www.twitter.com/johnnysedh3lllo)
 
